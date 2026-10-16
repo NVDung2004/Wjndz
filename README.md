@@ -1,7 +1,7 @@
 <!-- Avatar on the right -->
 <img align="right" width="64" src="https://github.com/Wjndz.png" />
 
-# Hi , I'm Nguyen Viet Dung   
+# Hi, I'm Nguyen Viet Dung   
 ### A backend-focused student developer from Vietnam 🇻🇳  
 
 ### Goal  
