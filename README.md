@@ -35,16 +35,11 @@ Strong interest in **Backend systems, APIs, and AI integration**, with a mindset
 <p align="center">
   <!-- Languages -->
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/python.png" alt="python"/>
   <!-- Databases -->
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" alt="postgresql"/>
   <!-- Frameworks & Libraries -->
   <img src="https://img.icons8.com/color/48/spring-logo.png" alt="spring boot"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-  <img src="https://img.icons8.com/color/48/tensorflow.png" alt="tensorflow"/>
-  <img src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/>
   <!-- Tools -->
   <img src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img src="https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png" alt="postman"/>
