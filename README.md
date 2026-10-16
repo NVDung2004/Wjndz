@@ -43,7 +43,6 @@ Strong interest in **Backend systems, APIs, and AI integration**, with a mindset
   <!-- Tools -->
   <img src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img src="https://img.icons8.com/?size=48&id=EPbEfEa7o8CB&format=png" alt="postman"/>
-  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="github" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"/>
   <img src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual studio"/>
   <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij"/>
